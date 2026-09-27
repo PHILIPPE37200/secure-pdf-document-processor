@@ -1,0 +1,11 @@
+src/**/*.ts linguist-detectable
+src/**/*.tsx linguist-detectable
+public/**/*.html linguist-vendored
+*.min.css linguist-generated
+
+* text=auto
+*.jpeg binary
+*.html linguist-vendored
+node_modules/* linguist-vendored
+* text=auto eol=lf
+vendor/* linguist-vendored
