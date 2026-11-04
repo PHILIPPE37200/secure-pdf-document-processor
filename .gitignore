@@ -1,0 +1,5 @@
+*.tgz
+npm-debug.log*
+dist/
+.env.local
+.DS_Store
